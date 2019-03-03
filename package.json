@@ -1,0 +1,23 @@
+{
+  "name": "todogun",
+  "version": "1.0.0",
+  "description": "To do application, built in javascript, using GunDB to create a Todo list app with decentralized user login.",
+  "main": "index.js",
+  "dependencies": {
+    "gun": "^0.9.9999991"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoIidarity/ToDoGun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoIidarity/ToDoGun/issues"
+  },
+  "homepage": "https://github.com/SoIidarity/ToDoGun#readme"
+}
